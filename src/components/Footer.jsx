@@ -63,6 +63,7 @@ const Footer = () => {
             <a href="#facebook" className="text-gray-300 hover:text-yellow-400 text-2xl">
               <i className="fab fa-facebook"></i>
             </a>
+            <p>test</p>
           </div>
         </div>
       </div>
